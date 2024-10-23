@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Jesutomi Bamidele, 🌱 I’m currently learning Python/ML/AI 
-Reach me on <p>twitter https://x.com/JT_Bamidele"
+<br>Reach me on <p>twitter https://x.com/JT_Bamidele"
 <!--
 **JTMidel1/JTMidel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
